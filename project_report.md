@@ -11,8 +11,8 @@
 4. Hyperparameter Optimization (HPO) - Setting 1 Submission 
 5. Hyperparameter Optimization (HPO) - Setting 2 Submission **[Model: `hpo (top-hpo-model: hpo2)`]**
 
-**Observation:** While submitting predictions obtained from all these five experiments, some of the experiments delivered negative predictions values.
-**Changes incorporated:** Kaggle refuses the submissions containing negative predictions values obtained from the predictor. Hence, all such negative outputs from respective predictors were replaced with 0.
+**Observation:** While submitting predictions obtained from all these five experiments, some of the experiments delivered negative predictions values.<br>
+**Changes incorporated:** Kaggle refuses the submissions containing negative predictions values obtained from the predictor. Hence, all such negative outputs from respective predictors were replaced with 0.<br>
 
 
 ### What was the top ranked model that performed?
