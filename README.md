@@ -60,7 +60,7 @@ pip install jupyterlab
 ## Information related to project specific files in this repository:<br><br>
 **1. `project_notebook-bike_sharing_demand.ipynb`:** Jupyter notebook with code<br><br>
 **2. `project_notebook-bike_sharing_demand.ipynb`:** HTML export of the jupyter notebbook<br><br>
-**3. `project_report.md`:** (Markdown or PDF file of the report) A report was generated post-submission that meticulously examines the iterations that yielded the most significant improvement in model performance, along with a thorough explanation of the reasons for their effectiveness.<br><br>
+**3. `project_report.md`:** (Markdown file of the report) A report was generated post-submission that meticulously examines the iterations that yielded the most significant improvement in model performance, along with a thorough explanation of the reasons for their effectiveness.<br><br>
 
 ## License
 [License](LICENSE.txt)<br><br>
