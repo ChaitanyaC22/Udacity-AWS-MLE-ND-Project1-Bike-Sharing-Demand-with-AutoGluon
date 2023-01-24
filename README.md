@@ -63,7 +63,7 @@ pip install jupyterlab
 **3. `project_report.md`:** (Markdown file of the report) A report was generated post-submission that meticulously examines the iterations that yielded the most significant improvement in model performance, along with a thorough explanation of the reasons for their effectiveness.<br><br>
 
 ## Acknowledgements
-Kaggle is hosting this competition for the machine learning community to use for fun and practice. This dataset was provided by Hadi Fanaee Tork using data from [Capital Bikeshare](https://capitalbikeshare.com/system-data). We also thank the UCI machine learning repository for [hosting the dataset](http://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset). If you use the problem in publication, please cite:
+Kaggle is hosting this competition for the machine learning community to use for fun and practice. This dataset was provided by Hadi Fanaee Tork using data from [Capital Bikeshare](https://capitalbikeshare.com/system-data). I would like to thank Kaggle, Hadi Fanaee Tork et al. and the University of California, Irvine (UCI) machine learning repository for [hosting the dataset](http://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset). If you use the problem in publication, please cite:
 
 *Fanaee-T, Hadi, and Gama, Joao, Event labeling combining ensemble detectors and background knowledge, Progress in Artificial Intelligence (2013): pp. 1-15, Springer Berlin Heidelberg.*
 
