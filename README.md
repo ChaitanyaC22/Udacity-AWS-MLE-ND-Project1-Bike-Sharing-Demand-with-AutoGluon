@@ -2,9 +2,10 @@
 
 ## Introduction to AWS Machine Learning Final Project
 
-## Overview
-
 ### Source: AWS Machine Learning Engineer Nanodegree Scholarship Program
+
+## Overview
+This project was a part of the project assessment in the **'AWS x Udacity's Machine Learning Engineer Nanodegree Scholarship Program'.**
 
 ## Problem Overview:
 
